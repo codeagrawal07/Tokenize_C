@@ -42,6 +42,12 @@ This project is a web-based interactive tool that allows users to:
   - Literals
 - Currently supports: C (UI ready for C++, Java, Python, JS)
 
+## 👥 Team Members
+
+- **Abhishek Agrawal** (220111249)  
+- **Dhrve Sahdev** (22021842)  
+- **Shaurya Bhardwaj** (220112851)
+
 ---
 
 ## 📁 Project Structure
